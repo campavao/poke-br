@@ -1,0 +1,22 @@
+Exception: Hangup
+Message: The script is taking too long.  The game will restart.
+PBIntl:719:in `_INTL'
+Compiler:114:in `linereport'
+Compiler:953:in `parseSpecies'
+Compiler:1565:in `pbCompileMachines'
+Compiler:1562:in `each'
+Compiler:1562:in `pbCompileMachines'
+Compiler:1547:in `each_line'
+Compiler:1547:in `pbCompileMachines'
+Compiler:3974:in `pbCompileAllData'
+Compiler:4095
+Exception: Hangup
+Message: The script is taking too long.  The game will restart.
+Compiler:2810:in `load'
+Compiler:2810:in `load_data'
+Compiler:2810:in `getMap'
+Compiler:2971:in `pbCompileTrainerEvents'
+Compiler:2969:in `each'
+Compiler:2969:in `pbCompileTrainerEvents'
+Compiler:4000:in `pbCompileAllData'
+Compiler:4095

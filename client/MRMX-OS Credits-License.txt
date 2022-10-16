@@ -1,0 +1,83 @@
+###############################################################################
+#
+# Multiplatform RMX-OS System
+#
+###############################################################################
+#
+#   Codes Upgrade to RMX 2.0 and MacOsx version and Launcher by Aegisrox
+#   RMX-OS and trade system created by Blizzard
+#   Pokemon Essentials and RMX-OS integration by Khkramer
+#   Codes modified and fixed by Markz88
+#   ANDROID Version by Kernys
+#   Linux Version by Kusanagi
+#   Update System by Gameus
+#   PvP System by Alexandre, Eduardobra and Markz88
+#
+###############################################################################
+#
+#CONTACTS
+#
+###############################################################################
+#
+#
+# www.forum.chaos-project.com
+# www.pokemmokit.altervista.org/blog/
+#
+# Aegisrox, Blizzard, Khkramer, Markz88, Kernys, Kusanagi, Gameus, Alexandre,
+# Eduardobra
+#
+###############################################################################
+
+#:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
+# Multi Platform RPG Maker XP Online System (MRMX-OS)
+#------------------------------------------------------------------------------
+# Authors: Aegisrox, Blizzard, Khkramer, Markz88, Kusanagi, Kernys, Gameus, 
+# Alexandre, Eduardobra
+#:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
+#   
+#  This work is protected by the following license:
+# #----------------------------------------------------------------------------
+# #  
+# #  Creative Commons - Attribution-NonCommercial-ShareAlike 3.0 Unported
+# #  ( http://creativecommons.org/licenses/by-nc-sa/3.0/ )
+# #  
+# #  You are free:
+# #  
+# #  to Share - to copy, distribute and transmit the work
+# #  to Remix - to adapt the work
+# #  
+# #  Under the following conditions:
+# #  
+# #  Attribution. You must attribute the work in the manner specified by the
+# #  author or licensor (but not in any way that suggests that they endorse you
+# #  or your use of the work).
+# #  
+# #  Noncommercial. You may not use this work for commercial purposes.
+# #  
+# #  Share alike. If you alter, transform, or build upon this work, you may
+# #  distribute the resulting work only under the same or similar license to
+# #  this one.
+# #  
+# #  - For any reuse or distribution, you must make clear to others the license
+# #    terms of this work. The best way to do this is with a link to this web
+# #    page.
+# #  
+# #  - Any of the above conditions can be waived if you get permission from the
+# #    copyright holder.
+# #  
+# #  - Nothing in this license impairs or restricts the author's moral rights.
+# #  
+# #----------------------------------------------------------------------------
+# 
+#:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
+# 
+# Information:
+# 
+#   There is a documentation for this system. Read it in order to learn how to
+#   use this system. A server also comes with this system.
+# 
+# 
+# If you find any bugs, please report them here:
+# http://forum.chaos-project.com
+# http://pokemmokit.altervista.org/blog/
+#:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
