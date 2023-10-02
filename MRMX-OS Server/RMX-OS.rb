@@ -69,6 +69,7 @@ end
 # loading Ruby's libraries
 require 'socket'
 # loading external libraries
+puts version
 require "./bin/#{version}/mysql_api"
 
 #==========================================================================
@@ -78,7 +79,7 @@ require "./bin/#{version}/mysql_api"
 #==========================================================================
 
 module RMXOS
-	
+
 	# Logging files
 	Logs = {}
 	Logs['Error'] = 'logs/errors.log'
@@ -254,7 +255,7 @@ module RMXOS
 			end
 		}
 	end
-	
+
 end
 
 puts RMXOS::Data::Header

@@ -10,16 +10,16 @@ require './clienthandler.rb'
 require './send.rb'
 
 
-IP = '25.5.154.43'
+IP = '192.168.1.9'
 PORT = 5000
 SQLHOST = "127.0.0.1"
 SQLUSR = "root"
-SQLPASS = "Ihave5dogs!" #EDIT
+SQLPASS = "jellybean" #EDIT
 SQLDBASE = "peo"
 VERSION = 1
 MAXIMUM_CONNECTIONS = 20
 TRADETIMEOUT = 30
-BATTLETIMEOUT = 30 
+BATTLETIMEOUT = 30
 
 
 
@@ -32,7 +32,7 @@ BATTLETIMEOUT = 30
 		@server.run
 		end
 	end
-	
+
 #begin
 	print "Starting Server on #{IP}:#{PORT}\n"
 	main

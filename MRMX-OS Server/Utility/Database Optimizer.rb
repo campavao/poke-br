@@ -41,7 +41,7 @@ rescue SyntaxError
 end
 
 # loading external libraries
-require "./bin/#{version}/mysql_api"
+require "./bin/#{version}/mysql_api.so"
 
 # create server instance
 server = RMXOS::Server.new

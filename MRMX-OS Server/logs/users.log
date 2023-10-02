@@ -1711,3 +1711,11 @@ Users currently online: 1 / 50
 Client 'test12' has disconnected.
 Users currently online: 0 / 50
 
+2023-10-02 00:15:45 UTC; Log - User Logger:
+Client 'camtest' has connected.
+Users currently online: 1 / 50
+
+2023-10-02 00:20:18 UTC; Log - User Logger:
+Client 'camtest' has disconnected.
+Users currently online: 0 / 50
+
